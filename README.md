@@ -1,3 +1,5 @@
+![image](./figures/proposed_approach.png)
+
 对ViLT模型进行微调之后新得到的权重链接如下：文件：custom_vqa_vilt-b32-finetuned-vqa
 链接: https://pan.baidu.com/s/1DOTurjoT2KC4_SByT57o9g?pwd=5vkn 提取码: 5vkn 
 
